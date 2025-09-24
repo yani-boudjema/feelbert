@@ -1,0 +1,11 @@
+text,label
+"Oh super, encore une réunion à 8h du matin… j’en rêvais !",negative
+"Le service client a été fantastique, ils ont ignoré tous mes emails.",negative
+"Je suis ravi de mon nouvel emploi, l’équipe est accueillante.",positive
+Ce produit ne sert strictement à rien.,negative
+Il fait un temps aujourd’hui.,neutral
+Merci pour ce merveilleux cadeau… un stylo vide.,negative
+"J’ai bien mangé, sans plus.",neutral
+"Cette application a changé ma vie, je la recommande vivement.",positive
+"C’est bien, ils ont encore repoussé la deadline sans prévenir.",negative
+La salle était propre et la lumière agréable.,positive
